@@ -1426,9 +1426,8 @@ a:focus {
 .portfolio figure a {
     font-family: 'EB Garamond', serif;
     color: #aa9166;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: 300;
-    font-style: italic;
     transition: .3s;
 }
 
