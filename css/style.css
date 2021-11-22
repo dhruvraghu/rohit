@@ -14,8 +14,9 @@ h3,
 h4,
 h5, 
 h6 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-family: 'EB Garamond', serif;
+    font-weight: 600;
+    font-style: italic;
     color: #121518;
 }
 
