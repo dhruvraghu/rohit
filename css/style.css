@@ -1427,7 +1427,7 @@ a:focus {
     font-family: 'EB Garamond', serif;
     color: #aa9166;
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 300;
     font-style: italic;
     transition: .3s;
 }
